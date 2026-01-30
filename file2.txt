@@ -1,3 +1,16 @@
+public class basics {
+    // function 
+    public static void checkprime(int n )
+    {
+        // checkprime code 
+    }
+      public static void main (String args [])
+  {
+      // write code to check prime number by using function 
+      
+  }
+}
+
 hello this is just a formal practice session of git anf git hub   
 just
 
@@ -5,8 +18,7 @@ thus is my statment after making clone and i am on branch main and  i am push co
 
 for (int i = 0 ; i<array.length ; i++)
 {
-  //we are writing this code for being ahead of the code that are in local machine we need to rebase or something else need to do 
- console.log("this your prem hada so we need the best result ")
+  System.out.println("this your prem hada so we need the best result ")
   for (int j = 1 ; j<=i ; j++)
 {
 console.log("#");
