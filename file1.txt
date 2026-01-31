@@ -1,4 +1,5 @@
-public  classs oops
+public
+ for (  classs oops
 {
    public static void main (String args[])
   {
@@ -8,8 +9,7 @@ public  classs oops
          System.out.println(i);
      }
   }
-}
- for (int i = 0 ; i < =23 ; i++)
+}int i = 0 ; i < =23 ; i++)
  {
     System.out.println("prem hada is good boy and it is now  try to dicipline in his life ");
     // this is my second statement after clone 
@@ -23,4 +23,16 @@ for (int i = 0 ; i<100 ; i++)
 {
   //we are writing this code for being ahead of the code that are in local machine we need to rebase or something else need to do 
  console.log("this your prem hada so we need the best result ")
+}
+
+// print a even no. 1 to 100 
+for (int i = 1; i<100;i++)
+{
+      if (i%2==0)
+{   System.out.println(i);
+}
+else {
+continue;
+}
+
 }
